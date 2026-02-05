@@ -450,12 +450,6 @@ Tech Stack Details - In-depth technology breakdown
 Project Setup Guide - Developer setup instructions
 API Documentation - Backend API reference
 
-
-📞 Support & Contact
-Report a Bug - Open an Issue
-Request a Feature - Start a Discussion
-Email - pandeynandini1723@gmail.com 
-
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
