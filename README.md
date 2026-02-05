@@ -56,21 +56,21 @@ Session management - Secure token handling
 Frontend (React 18 + TypeScript)
 
 Client Architecture:
-├── SPA Routing (React Router 6)
-├── State Management (React Query + Context API)
-├── Component Library (Radix UI + Tailwind CSS)
-├── Maps Integration (TomTom SDK)
-├── Voice Features (Web Speech API)
-└── Real-time Data (OpenWeatherMap API)
+ ├── SPA Routing (React Router 6)
+ ├── State Management (React Query + Context API)
+ ├── Component Library (Radix UI + Tailwind CSS)
+ ├── Maps Integration (TomTom SDK)
+ ├── Voice Features (Web Speech API)
+ └── Real-time Data (OpenWeatherMap API)
 
 Backend (Express 5)
 
 Server Architecture:
-├── REST API (/api/*)
-├── Dialogflow Intent Matching
-├── Route Handlers
-├── Middleware (CORS, etc.)
-└── Environment-based Configuration
+ ├── REST API (/api/*)
+ ├── Dialogflow Intent Matching
+ ├── Route Handlers
+ ├── Middleware (CORS, etc.)
+ └── Environment-based Configuration
 
 External Services
 
@@ -156,15 +156,15 @@ ESLint - Code Linting
 📁 Project Structure
 
 .
-├── client/                          # React Frontend
-│   ├── pages/                       # Route pages
-│   │   ├── Index.tsx               # Home page
-│   │   ├── GreenRoute.tsx          # Route selection
-│   │   ├── PredictiveAnalytics.tsx # Route analysis & AQI
-│   │   ├── ImpactRouteAnalyzer.tsx # Interactive map
-│   │   ├── EcoCoins.tsx            # Rewards hub
-│   │   ├── Donate.tsx              # Donation page
-│   │   ├── SignUp.tsx & SignIn.tsx # Authentication
+├── client/                           # React Frontend
+│   ├── pages/                        # Route pages
+│   │   ├── Index.tsx                 # Home page
+│   │   ├── GreenRoute.tsx            # Route selection
+│   │   ├── PredictiveAnalytics.tsx   # Route analysis & AQI
+│   │   ├── ImpactRouteAnalyzer.tsx   # Interactive map
+│   │   ├── EcoCoins.tsx              # Rewards hub
+│   │   ├── Donate.tsx                # Donation page
+│   │   ├── SignUp.tsx & SignIn.tsx   # Authentication
 │   │   └── [Other Pages]
 │   ├── components/
 │   │   ├── ui/                     # Radix UI components (30+)
@@ -449,10 +449,13 @@ Real-time traffic data limited to available regions
 Tech Stack Details - In-depth technology breakdown
 Project Setup Guide - Developer setup instructions
 API Documentation - Backend API reference
+
+
 📞 Support & Contact
 Report a Bug - Open an Issue
 Request a Feature - Start a Discussion
-Email - anshumalapandit@gmail.com
+Email - pandeynandini1723@gmail.com 
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
